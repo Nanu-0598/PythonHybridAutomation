@@ -1,0 +1,393 @@
+2024-07-25 13:47:01:INFO:*********************First Test Case***********
+2024-07-25 13:47:01:INFO:*********************Verification of Admin login Page***********
+2024-07-25 13:47:05:INFO:*********************First Test Cases is Passed***********
+2024-07-25 13:47:07:INFO:*********************Second Test Case***********
+2024-07-25 13:49:32:INFO:*********************Third Test Case***********
+2024-07-25 13:51:11:INFO:*********************First Test Case***********
+2024-07-25 13:51:11:INFO:*********************Verification of Admin login Page***********
+2024-07-25 13:51:15:INFO:*********************First Test Cases is Passed***********
+2024-07-25 13:51:18:INFO:*********************Second Test Case***********
+2024-07-25 13:51:26:INFO:*********************Third Test Case***********
+2024-07-25 13:56:23:INFO:*********************First Test Case***********
+2024-07-25 13:56:23:INFO:*********************Verification of Admin login Page***********
+2024-07-25 13:56:30:INFO:*********************First Test Cases is Passed***********
+2024-07-25 13:56:32:INFO:*********************Second Test Case***********
+2024-07-25 13:56:41:INFO:*********************Third Test Case***********
+2024-07-25 14:59:51:INFO:*********************Data driven Test cases started***********
+2024-07-25 15:01:28:INFO:*********************Data driven Test cases started***********
+2024-07-25 15:01:38:INFO:test data is failed
+2024-07-25 15:05:35:INFO:*********************Data driven Test cases started***********
+2024-07-25 15:07:16:INFO:*********************Data driven Test cases started***********
+2024-07-25 15:07:25:INFO:test data is failed
+2024-07-25 15:10:38:INFO:*********************Data driven Test cases started***********
+2024-07-25 15:11:19:INFO:*********************Data driven Test cases started***********
+2024-07-25 15:12:23:INFO:*********************Data driven Test cases started***********
+2024-07-25 15:13:02:INFO:test data is failed
+2024-07-25 15:14:55:INFO:*********************Data driven Test cases started***********
+2024-07-25 15:15:49:INFO:test data is failed
+2024-07-25 15:17:52:INFO:*********************Data driven Test cases started***********
+2024-07-25 15:18:54:INFO:*********************Data driven Test cases started***********
+2024-07-25 15:19:03:INFO:test data is failed
+2024-07-25 15:19:26:INFO:*********************Data driven Test cases started***********
+2024-07-25 15:19:34:INFO:test data is failed
+2024-07-25 15:19:40:INFO:test data is passed
+2024-07-25 15:19:46:INFO:test data is passed
+2024-07-25 15:19:46:INFO:Test admin data driven test is failed
+2024-07-25 15:21:06:INFO:*********************Data driven Test cases started***********
+2024-07-25 15:22:24:INFO:*********************Data driven Test cases started***********
+2024-07-25 15:23:39:INFO:*********************Data driven Test cases started***********
+2024-07-25 15:23:48:INFO:test data is failed
+2024-07-25 15:24:26:INFO:*********************Data driven Test cases started***********
+2024-07-25 15:24:37:INFO:test data is failed
+2024-07-25 15:24:45:INFO:test data is passed
+2024-07-25 15:24:51:INFO:test data is passed
+2024-07-25 15:24:51:INFO:Test admin data driven test is failed
+2024-07-25 18:08:53:INFO:*********************Data driven Test cases started***********
+2024-07-25 18:09:04:INFO:test data is failed
+2024-07-25 18:10:54:INFO:*********************Data driven Test cases started***********
+2024-07-25 18:11:24:INFO:test data is failed
+2024-07-25 18:11:32:INFO:test data is passed
+2024-07-25 18:11:38:INFO:test data is passed
+2024-07-25 18:11:38:INFO:Test admin data driven test is failed
+2024-07-25 19:10:31:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 19:10:39:INFO:***********Login completed ******** **
+2024-07-25 19:10:39:INFO:***********starting add customer test *************
+2024-07-25 19:10:59:INFO:***********Providing customer info started *************
+2024-07-25 19:11:37:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 19:11:46:INFO:***********Login completed ******** **
+2024-07-25 19:11:46:INFO:***********starting add customer test *************
+2024-07-25 19:11:48:INFO:***********Providing customer info started *************
+2024-07-25 19:13:42:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 19:13:47:INFO:***********Login completed ******** **
+2024-07-25 19:13:47:INFO:***********starting add customer test *************
+2024-07-25 19:13:50:INFO:***********Providing customer info started *************
+2024-07-25 19:14:26:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 19:14:31:INFO:***********Login completed ******** **
+2024-07-25 19:14:31:INFO:***********starting add customer test *************
+2024-07-25 19:14:34:INFO:***********Providing customer info started *************
+2024-07-25 19:16:31:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 19:17:09:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 19:18:12:INFO:***********Login completed ******** **
+2024-07-25 19:18:12:INFO:***********starting add customer test *************
+2024-07-25 19:18:25:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 19:18:29:INFO:***********Login completed ******** **
+2024-07-25 19:18:29:INFO:***********starting add customer test *************
+2024-07-25 19:18:41:INFO:***********Providing customer info started *************
+2024-07-25 19:21:16:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 19:21:23:INFO:***********Login completed ******** **
+2024-07-25 19:21:23:INFO:***********starting add customer test *************
+2024-07-25 19:21:26:INFO:***********Providing customer info started *************
+2024-07-25 19:22:54:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 19:23:02:INFO:***********Login completed ******** **
+2024-07-25 19:23:02:INFO:***********starting add customer test *************
+2024-07-25 19:23:05:INFO:***********Providing customer info started *************
+2024-07-25 19:28:01:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 19:28:08:INFO:***********Login completed ******** **
+2024-07-25 19:28:08:INFO:***********starting add customer test *************
+2024-07-25 19:28:12:INFO:***********Providing customer info started *************
+2024-07-25 19:28:19:INFO:***********Test store 2 selected *************
+2024-07-25 19:29:47:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 19:29:53:INFO:***********Login completed ******** **
+2024-07-25 19:29:53:INFO:***********starting add customer test *************
+2024-07-25 19:29:56:INFO:***********Providing customer info started *************
+2024-07-25 19:30:03:INFO:***********Test store 2 selected *************
+2024-07-25 19:30:13:INFO:***********Test_03_Add_New_Customer test failed *************
+2024-07-25 19:30:41:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 19:30:51:INFO:***********Login completed ******** **
+2024-07-25 19:30:51:INFO:***********starting add customer test *************
+2024-07-25 19:31:09:INFO:***********Providing customer info started *************
+2024-07-25 19:31:19:INFO:***********Test store 2 selected *************
+2024-07-25 19:31:30:INFO:***********Test_03_Add_New_Customer test failed *************
+2024-07-25 19:32:43:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 19:32:51:INFO:***********Login completed ******** **
+2024-07-25 19:32:51:INFO:***********starting add customer test *************
+2024-07-25 19:32:55:INFO:***********Providing customer info started *************
+2024-07-25 19:33:02:INFO:***********Test store 2 selected *************
+2024-07-25 19:33:11:INFO:***********Test_03_Add_New_Customer test passed *************
+2024-07-25 19:33:52:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 19:33:57:INFO:***********Login completed ******** **
+2024-07-25 19:33:57:INFO:***********starting add customer test *************
+2024-07-25 19:34:00:INFO:***********Providing customer info started *************
+2024-07-25 19:34:07:INFO:***********Test store 2 selected *************
+2024-07-25 19:34:19:INFO:***********Test_03_Add_New_Customer test failed *************
+2024-07-25 19:34:29:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 19:34:46:INFO:***********Login completed ******** **
+2024-07-25 19:34:46:INFO:***********starting add customer test *************
+2024-07-25 19:35:11:INFO:***********Providing customer info started *************
+2024-07-25 19:35:21:INFO:***********Test store 2 selected *************
+2024-07-25 19:35:32:INFO:***********Test_03_Add_New_Customer test failed *************
+2024-07-25 19:36:18:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 19:36:28:INFO:***********Login completed ******** **
+2024-07-25 19:36:28:INFO:***********starting add customer test *************
+2024-07-25 19:36:30:INFO:***********Providing customer info started *************
+2024-07-25 19:36:37:INFO:***********Test store 2 selected *************
+2024-07-25 19:36:49:INFO:***********Test_03_Add_New_Customer test failed *************
+2024-07-25 19:38:14:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 19:38:20:INFO:***********Login completed ******** **
+2024-07-25 19:38:20:INFO:***********starting add customer test *************
+2024-07-25 19:38:23:INFO:***********Providing customer info started *************
+2024-07-25 19:38:30:INFO:***********Test store 2 selected *************
+2024-07-25 19:38:42:INFO:***********Test_03_Add_New_Customer test passed *************
+2024-07-25 19:40:38:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 19:40:49:INFO:***********Login completed ******** **
+2024-07-25 19:40:49:INFO:***********starting add customer test *************
+2024-07-25 19:40:52:INFO:***********Providing customer info started *************
+2024-07-25 19:40:59:INFO:***********Test store 2 selected *************
+2024-07-25 19:42:10:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 19:42:15:INFO:***********Login completed ******** **
+2024-07-25 19:42:15:INFO:***********starting add customer test *************
+2024-07-25 19:42:18:INFO:***********Providing customer info started *************
+2024-07-25 19:42:24:INFO:***********Test store 2 selected *************
+2024-07-25 19:42:37:INFO:***********Test_03_Add_New_Customer test failed *************
+2024-07-25 20:17:46:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 20:17:52:INFO:***********Login completed *************
+2024-07-25 20:17:52:INFO:***********navigating to customer search page *************
+2024-07-25 20:18:05:INFO:*********** starting search customer by email *************
+2024-07-25 20:18:09:INFO:***********Test_04_Search_customer by email test passed *************
+2024-07-25 20:18:20:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 20:18:26:INFO:***********Login completed *************
+2024-07-25 20:18:26:INFO:***********navigating to customer search page *************
+2024-07-25 20:18:48:INFO:*********** starting search customer by email *************
+2024-07-25 20:19:34:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 20:19:42:INFO:***********Login completed *************
+2024-07-25 20:19:42:INFO:***********navigating to customer search page *************
+2024-07-25 20:19:43:INFO:*********** starting search customer by email *************
+2024-07-25 20:19:47:INFO:***********Test_04_Search_customer by email test passed *************
+2024-07-25 20:31:43:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 20:31:54:INFO:***********Login completed *************
+2024-07-25 20:31:54:INFO:***********navigating to customer search page *************
+2024-07-25 20:31:55:INFO:*********** starting search customer by email *************
+2024-07-25 20:31:59:INFO:***********Test_04_Search_customer by email test passed *************
+2024-07-25 20:32:04:INFO:***********Test_04_002_Search_Customer with name started *************
+2024-07-25 20:32:38:INFO:***********Login completed *************
+2024-07-25 20:32:38:INFO:***********navigating to customer search page *************
+2024-07-25 20:33:03:INFO:***********Test_04_003_Search_Customer with company name started *************
+2024-07-25 20:33:08:INFO:***********Login completed **************
+2024-07-25 20:33:08:INFO:***********navigating to customer search page *************
+2024-07-25 20:34:48:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 20:34:53:INFO:***********Login completed *************
+2024-07-25 20:34:53:INFO:***********navigating to customer search page *************
+2024-07-25 20:34:54:INFO:*********** starting search customer by email *************
+2024-07-25 20:34:58:INFO:***********Test_04_Search_customer by email test passed *************
+2024-07-25 20:35:02:INFO:***********Test_04_002_Search_Customer with name started *************
+2024-07-25 20:35:14:INFO:***********Login completed *************
+2024-07-25 20:35:14:INFO:***********navigating to customer search page *************
+2024-07-25 20:35:16:INFO:*********** starting search customer by name *************
+2024-07-25 20:35:20:INFO:***********Test_04_002_Search_customer by name test passed *************
+2024-07-25 20:35:24:INFO:***********Test_04_003_Search_Customer with company name started *************
+2024-07-25 20:35:31:INFO:***********Login completed **************
+2024-07-25 20:35:31:INFO:***********navigating to customer search page *************
+2024-07-25 20:37:29:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 20:37:43:INFO:***********Login completed *************
+2024-07-25 20:37:43:INFO:***********navigating to customer search page *************
+2024-07-25 20:38:11:INFO:*********** starting search customer by email *************
+2024-07-25 20:38:17:INFO:***********Test_04_Search_customer by email test passed *************
+2024-07-25 20:38:22:INFO:***********Test_04_002_Search_Customer with name started *************
+2024-07-25 20:38:28:INFO:***********Login completed *************
+2024-07-25 20:38:28:INFO:***********navigating to customer search page *************
+2024-07-25 20:38:29:INFO:*********** starting search customer by name *************
+2024-07-25 20:38:33:INFO:***********Test_04_002_Search_customer by name test passed *************
+2024-07-25 20:38:38:INFO:***********Test_04_003_Search_Customer with company name started *************
+2024-07-25 20:38:45:INFO:***********Login completed **************
+2024-07-25 20:38:45:INFO:***********navigating to customer search page *************
+2024-07-25 20:40:51:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 20:40:57:INFO:***********Login completed *************
+2024-07-25 20:40:57:INFO:***********navigating to customer search page *************
+2024-07-25 20:41:14:INFO:*********** starting search customer by email *************
+2024-07-25 20:41:17:INFO:***********Test_04_Search_customer by email test passed *************
+2024-07-25 20:41:21:INFO:***********Test_04_002_Search_Customer with name started *************
+2024-07-25 20:41:30:INFO:***********Login completed *************
+2024-07-25 20:41:30:INFO:***********navigating to customer search page *************
+2024-07-25 20:41:45:INFO:*********** starting search customer by name *************
+2024-07-25 20:41:49:INFO:***********Test_04_002_Search_customer by name test passed *************
+2024-07-25 20:41:53:INFO:***********Test_04_003_Search_Customer with company name started *************
+2024-07-25 20:41:58:INFO:***********Login completed **************
+2024-07-25 20:41:58:INFO:***********navigating to customer search page *************
+2024-07-25 20:41:59:INFO:*********** starting search customer by company name *************
+2024-07-25 20:43:35:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 20:43:52:INFO:***********Login completed *************
+2024-07-25 20:43:52:INFO:***********navigating to customer search page *************
+2024-07-25 20:44:22:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 20:44:59:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 20:45:08:INFO:***********Login completed *************
+2024-07-25 20:45:08:INFO:***********navigating to customer search page *************
+2024-07-25 20:45:09:INFO:*********** starting search customer by email *************
+2024-07-25 20:45:14:INFO:***********Test_04_Search_customer by email test passed *************
+2024-07-25 20:45:16:INFO:***********Test_04_002_Search_Customer with name started *************
+2024-07-25 20:45:24:INFO:***********Login completed *************
+2024-07-25 20:45:24:INFO:***********navigating to customer search page *************
+2024-07-25 20:45:25:INFO:*********** starting search customer by name *************
+2024-07-25 20:45:30:INFO:***********Test_04_002_Search_customer by name test passed *************
+2024-07-25 20:45:32:INFO:***********Test_04_003_Search_Customer with company name started *************
+2024-07-25 20:47:23:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 20:47:29:INFO:***********Login completed *************
+2024-07-25 20:47:29:INFO:***********navigating to customer search page *************
+2024-07-25 20:47:30:INFO:*********** starting search customer by email *************
+2024-07-25 20:47:34:INFO:***********Test_04_Search_customer by email test passed *************
+2024-07-25 20:47:37:INFO:***********Test_04_002_Search_Customer with name started *************
+2024-07-25 20:47:42:INFO:***********Login completed *************
+2024-07-25 20:47:42:INFO:***********navigating to customer search page *************
+2024-07-25 20:47:43:INFO:*********** starting search customer by name *************
+2024-07-25 20:47:47:INFO:***********Test_04_002_Search_customer by name test passed *************
+2024-07-25 20:47:50:INFO:***********Test_04_003_Search_Customer with company name started *************
+2024-07-25 20:50:22:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 20:50:38:INFO:***********Login completed *************
+2024-07-25 20:50:38:INFO:***********navigating to customer search page *************
+2024-07-25 20:50:39:INFO:*********** starting search customer by email *************
+2024-07-25 20:50:44:INFO:***********Test_04_Search_customer by email test passed *************
+2024-07-25 20:50:48:INFO:***********Test_04_002_Search_Customer with name started *************
+2024-07-25 20:51:37:INFO:***********Login completed *************
+2024-07-25 20:51:37:INFO:***********navigating to customer search page *************
+2024-07-25 20:51:41:INFO:***********Test_04_003_Search_Customer with company name started *************
+2024-07-25 20:51:48:INFO:***********Login completed **************
+2024-07-25 20:51:48:INFO:***********navigating to customer search page *************
+2024-07-25 20:51:49:INFO:*********** starting search customer by company name *************
+2024-07-25 20:53:23:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 20:55:12:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 20:55:16:INFO:***********Login completed *************
+2024-07-25 20:55:16:INFO:***********navigating to customer search page *************
+2024-07-25 20:55:24:INFO:*********** starting search customer by email *************
+2024-07-25 20:55:28:INFO:***********Test_04_Search_customer by email test passed *************
+2024-07-25 20:55:30:INFO:***********Test_04_002_Search_Customer with name started *************
+2024-07-25 20:55:52:INFO:***********Login completed *************
+2024-07-25 20:55:52:INFO:***********navigating to customer search page *************
+2024-07-25 20:55:55:INFO:***********Test_04_003_Search_Customer with company name started *************
+2024-07-25 20:56:07:INFO:***********Login completed **************
+2024-07-25 20:56:07:INFO:***********navigating to customer search page *************
+2024-07-25 20:56:08:INFO:*********** starting search customer by company name *************
+2024-07-25 20:56:12:INFO:***********Test_04_003_Search_customer by company name test passed ***********
+2024-07-25 20:58:28:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 21:02:59:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 21:12:36:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 21:12:40:INFO:***********Login completed ******** **
+2024-07-25 21:12:40:INFO:***********starting add customer test *************
+2024-07-25 21:12:43:INFO:***********Providing customer info started *************
+2024-07-25 21:12:50:INFO:***********Test store 2 selected *************
+2024-07-25 21:12:54:INFO:*********************Second Test Case***********
+2024-07-25 21:13:03:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 21:13:07:INFO:***********Login completed *************
+2024-07-25 21:13:07:INFO:***********navigating to customer search page *************
+2024-07-25 21:13:21:INFO:*********** starting search customer by email *************
+2024-07-25 21:13:26:INFO:***********Test_04_Search_customer by email test passed *************
+2024-07-25 21:13:43:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 21:13:49:INFO:***********Login completed ******** **
+2024-07-25 21:13:49:INFO:***********starting add customer test *************
+2024-07-25 21:13:51:INFO:***********Providing customer info started *************
+2024-07-25 21:13:58:INFO:***********Test store 2 selected *************
+2024-07-25 21:14:02:INFO:*********************Second Test Case***********
+2024-07-25 21:14:13:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 21:14:19:INFO:***********Login completed *************
+2024-07-25 21:14:19:INFO:***********navigating to customer search page *************
+2024-07-25 21:14:20:INFO:*********** starting search customer by email *************
+2024-07-25 21:14:25:INFO:***********Test_04_Search_customer by email test passed *************
+2024-07-25 21:16:21:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 21:16:27:INFO:***********Login completed ******** **
+2024-07-25 21:16:27:INFO:***********starting add customer test *************
+2024-07-25 21:16:31:INFO:***********Providing customer info started *************
+2024-07-25 21:16:38:INFO:***********Test store 2 selected *************
+2024-07-25 21:16:43:INFO:*********************Second Test Case***********
+2024-07-25 21:16:58:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 21:17:05:INFO:***********Login completed *************
+2024-07-25 21:17:05:INFO:***********navigating to customer search page *************
+2024-07-25 21:17:06:INFO:*********** starting search customer by email *************
+2024-07-25 21:17:10:INFO:***********Test_04_Search_customer by email test passed *************
+2024-07-25 21:19:36:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 21:19:41:INFO:***********Login completed ******** **
+2024-07-25 21:19:41:INFO:***********starting add customer test *************
+2024-07-25 21:19:44:INFO:***********Providing customer info started *************
+2024-07-25 21:19:51:INFO:***********Test store 2 selected *************
+2024-07-25 21:19:55:INFO:*********************Second Test Case***********
+2024-07-25 21:20:04:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 21:20:10:INFO:***********Login completed *************
+2024-07-25 21:20:10:INFO:***********navigating to customer search page *************
+2024-07-25 21:20:11:INFO:*********** starting search customer by email *************
+2024-07-25 21:20:15:INFO:***********Test_04_Search_customer by email test passed *************
+2024-07-25 21:20:59:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 21:21:06:INFO:***********Login completed ******** **
+2024-07-25 21:21:06:INFO:***********starting add customer test *************
+2024-07-25 21:21:08:INFO:***********Providing customer info started *************
+2024-07-25 21:21:15:INFO:***********Test store 2 selected *************
+2024-07-25 21:21:19:INFO:*********************Second Test Case***********
+2024-07-25 21:22:03:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 21:22:19:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 21:22:27:INFO:***********Login completed ******** **
+2024-07-25 21:22:27:INFO:***********starting add customer test *************
+2024-07-25 21:22:29:INFO:***********Providing customer info started *************
+2024-07-25 21:22:36:INFO:***********Test store 2 selected *************
+2024-07-25 21:23:09:INFO:*********************Second Test Case***********
+2024-07-25 21:23:18:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 21:23:22:INFO:***********Login completed *************
+2024-07-25 21:23:22:INFO:***********navigating to customer search page *************
+2024-07-25 21:25:05:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 21:25:15:INFO:***********Login completed ******** **
+2024-07-25 21:25:15:INFO:***********starting add customer test *************
+2024-07-25 21:25:44:INFO:***********Providing customer info started *************
+2024-07-25 21:25:57:INFO:***********Test store 2 selected *************
+2024-07-25 21:26:01:INFO:*********************Second Test Case***********
+2024-07-25 22:16:31:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 22:16:46:INFO:***********Login completed ******** **
+2024-07-25 22:16:46:INFO:***********starting add customer test *************
+2024-07-25 22:17:11:INFO:*********************Second Test Case***********
+2024-07-25 22:17:20:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 22:17:30:INFO:***********Login completed *************
+2024-07-25 22:17:30:INFO:***********navigating to customer search page *************
+2024-07-25 22:17:55:INFO:*********** starting search customer by email *************
+2024-07-25 22:17:59:INFO:***********Test_04_Search_customer by email test passed *************
+2024-07-25 22:26:55:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 22:27:25:INFO:***********Login completed ******** **
+2024-07-25 22:27:25:INFO:***********starting add customer test *************
+2024-07-25 22:27:52:INFO:*********************Second Test Case***********
+2024-07-25 22:29:21:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 22:29:25:INFO:***********Login completed ******** **
+2024-07-25 22:29:25:INFO:***********starting add customer test *************
+2024-07-25 22:29:28:INFO:***********Providing customer info started *************
+2024-07-25 22:29:35:INFO:***********Test store 2 selected *************
+2024-07-25 22:29:39:INFO:*********************Second Test Case***********
+2024-07-25 22:29:48:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 22:30:10:INFO:***********Login completed *************
+2024-07-25 22:30:10:INFO:***********navigating to customer search page *************
+2024-07-25 22:56:24:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 22:56:32:INFO:***********Login completed ******** **
+2024-07-25 22:56:32:INFO:***********starting add customer test *************
+2024-07-25 22:57:15:INFO:***********Providing customer info started *************
+2024-07-25 22:57:38:INFO:***********Test store 2 selected *************
+2024-07-25 22:58:11:INFO:*********************Second Test Case***********
+2024-07-25 22:58:28:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 22:58:39:INFO:***********Login completed *************
+2024-07-25 22:58:39:INFO:***********navigating to customer search page *************
+2024-07-25 22:58:54:INFO:*********** starting search customer by email *************
+2024-07-25 22:59:00:INFO:***********Test_04_Search_customer by email test passed *************
+2024-07-25 23:03:19:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 23:03:24:INFO:***********Login completed ******** **
+2024-07-25 23:03:24:INFO:***********starting add customer test *************
+2024-07-25 23:03:27:INFO:***********Providing customer info started *************
+2024-07-25 23:03:35:INFO:***********Test store 2 selected *************
+2024-07-25 23:03:47:INFO:***********Test_03_Add_New_Customer test failed *************
+2024-07-25 23:03:53:INFO:*********************Second Test Case***********
+2024-07-25 23:04:05:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 23:04:20:INFO:***********Login completed *************
+2024-07-25 23:04:20:INFO:***********navigating to customer search page *************
+2024-07-25 23:04:22:INFO:*********** starting search customer by email *************
+2024-07-25 23:04:26:INFO:***********Test_04_Search_customer by email test passed *************
+2024-07-25 23:04:56:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 23:05:19:INFO:***********Login completed ******** **
+2024-07-25 23:05:19:INFO:***********starting add customer test *************
+2024-07-25 23:05:44:INFO:*********************Second Test Case***********
+2024-07-25 23:06:26:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 23:06:38:INFO:***********Login completed *************
+2024-07-25 23:06:38:INFO:***********navigating to customer search page *************
+2024-07-25 23:06:52:INFO:*********** starting search customer by email *************
+2024-07-25 23:06:55:INFO:***********Test_04_Search_customer by email test passed *************
+2024-07-25 23:07:30:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 23:07:41:INFO:***********Login completed ******** **
+2024-07-25 23:07:41:INFO:***********starting add customer test *************
+2024-07-25 23:08:37:INFO:***********Test_03_Add_New_Customer started ***********
+2024-07-25 23:08:47:INFO:***********Login completed ******** **
+2024-07-25 23:08:47:INFO:***********starting add customer test *************
+2024-07-25 23:09:13:INFO:***********Providing customer info started *************
+2024-07-25 23:09:21:INFO:***********Test store 2 selected *************
+2024-07-25 23:09:52:INFO:*********************Second Test Case***********
+2024-07-25 23:10:02:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-07-25 23:10:17:INFO:***********Login completed *************
+2024-07-25 23:10:17:INFO:***********navigating to customer search page *************
+2024-07-25 23:10:40:INFO:*********** starting search customer by email *************
